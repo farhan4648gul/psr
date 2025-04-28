@@ -1,0 +1,19 @@
+{
+    "name": "gc/psr-11-farhan",
+    "description": "Testing PSR-11 Container in PHP",
+    "type": "project",
+    "require": {
+        "psr/container": "^2.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Gc\\Psr11Farhan\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Farhan Ubuntu 24.04.2 LTS",
+            "email": "farhan4648gul@gmail.com"
+        }
+    ]
+}
